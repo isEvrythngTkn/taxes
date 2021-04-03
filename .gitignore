@@ -133,3 +133,4 @@ lib-cov
 *.pid
 
 config/env/local.js
+config/custom.js
